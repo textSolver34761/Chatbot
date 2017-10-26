@@ -1,0 +1,33 @@
+#input {
+    background-color:white;
+    border: dotted;
+    font-family: sans-serif;
+    color: #000;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    justify-content: bottom;
+    display: inline-flex;
+}
+.border{
+    border:solid;
+    border-color:white;
+    height: 850px;
+    width: 450px;
+}
+.bgimg{
+    background-image: url(matrix.jpg);
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 25px;
+}
+chatbot{
+    width: 150px;
+    height: 720px;
+}
